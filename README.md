@@ -1,7 +1,7 @@
 ## Intro
 Šis projektas yra papildoma IBAN kodų tikrinimo užduotis - Servisas, kuris validuoja IBAN sąrašą.
 
-Pastebėjau, jog Swedbank naudoja Spring framework ir nusprendžiau, jog Service kūrimas naudojant būtent Spring būtų įdomus iššūkis pačiam sau. Tad šis projektas naudoja Spring framework.
+Pastebėjau, jog Swedbank naudoja Spring framework ir nusprendžiau, jog Service kūrimas naudojant būtent Spring būtų įdomus iššūkis pačiam sau, nes niekad neteko jo naudoti. Tad šis projektas naudoja Spring framework.
 
 ## Paleidimas:
 Šis service paleidžiamas naudojant `gradlew bootRun` komandą.
