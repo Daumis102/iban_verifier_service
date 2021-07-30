@@ -29,4 +29,4 @@ Date: Fri, 30 Jul 2021 16:16:29 GMT
 ```
 
 ## Detalės:
-Šis projektas naudoja tą patį IBAN verifier, kuris buvo naudojamas IBAN tikrinimui lokaliai: https://github.com/Daumis102/iban_verifier, tačiau leidžia jį naudoti kaip API.
+Šis projektas naudoja tą patį IBAN verifier, kuris buvo naudojamas IBAN tikrinimui lokaliai: https://github.com/Daumis102/iban_verifier, tačiau leidžia jį naudoti kaip REST API.
